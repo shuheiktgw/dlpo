@@ -4,7 +4,7 @@ dlpo is a lightweight CLI tool that makes Terraform plan output from the `datado
 ## Installation
 
 ```shell
-go install github.com/shuheiktgw/dlpo@latest
+go install github.com/shuheiktgw/dlpo@main
 ```
 
 ## Prerequisites
